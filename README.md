@@ -5,7 +5,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 ### Beginner
 - [x] Day 001 - Print, Variables, Input
 - [x] Day 002 - Data Types, Numbers, Operations, Type Conversion, f-Strings
-- [ ] Day 003
+- [x] Day 003 - Conditional Statementsm Logical Operators, Code Blocks and Scope
 - [ ] Day 004
 - [ ] Day 005
 - [ ] Day 006
