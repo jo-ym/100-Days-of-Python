@@ -86,6 +86,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [ ]Day 079
 - [ ]Day 080
 ## Professional
+<<<<<<< HEAD
 - [ ]Day 081
 - [ ]Day 082
 - [ ]Day 083
@@ -106,3 +107,25 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [ ]Day 098
 - [ ]Day 099
 - [ ]Day 100!!!
+=======
+- []Day 081
+- []Day 082
+- []Day 083
+- []Day 084
+- []Day 085
+- []Day 086
+- []Day 087
+- []Day 088
+- []Day 089
+- []Day 090
+- []Day 091
+- []Day 092
+- []Day 093
+- []Day 094
+- []Day 095
+- []Day 096
+- []Day 097
+- []Day 098
+- []Day 099
+- []Day 100!!!
+>>>>>>> 4b8294322005ecffbaa885ae05d794874778f8c6
