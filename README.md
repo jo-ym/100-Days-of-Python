@@ -3,8 +3,8 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 
 ## Check List
 ### Beginner
-- [x] Day 001 - Working with Variables in Python to Manage Data
-- [ ] Day 002
+- [x] Day 001 - Print, Variables, Input
+- [x] Day 002 - Data Types, Numbers, Operations, Type Conversion, f-Strings
 - [ ] Day 003
 - [ ] Day 004
 - [ ] Day 005
