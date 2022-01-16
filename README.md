@@ -3,6 +3,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 
 ## Check List
 ### Beginner
+- []Texst
 - []Day 001
 - []Day 002
 - []Day 003
