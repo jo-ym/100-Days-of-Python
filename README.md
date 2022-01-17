@@ -6,7 +6,28 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 001 - Print, Variables, Input
 - [x] Day 002 - Data Types, Numbers, Operations, Type Conversion, f-Strings
 - [x] Day 003 - Conditional Statementsm Logical Operators, Code Blocks and Scope
-- [ ] Day 004
+- [ ] Day 004 - Randomisation and Lists
+    - Good Video: [Random vs. Pseudorandom Number Generators. Created by Brit Cruise.](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
+    - Good Tool: [Ask Python](https://www.askpython.com/)
+    - Need `import random`
+    - Seed & State
+        - `random.seed(n)`
+        - `random.getrandbits(k)`: returns a Python integer with k random bits. This is useful for methods like randrange() to handle arbitrary large ranges for random number generation.
+        - `random.getstate()` & `random.setstate()`
+    - Random Integers
+        - `random.randrange(start, stop, step)`: selected integer from range(start, stop, step)
+        - `random.randint(a, b)`: [a to b]
+    - Random floating point numbers
+        - `random.random()`: [0.0 to 1.0)
+            - `random.random() * N` = 0.0 to N-1.99999
+        - `random.uniform(a, b)`: a <= N <= b if a <= b and b <= N <= a if b < a
+        - `random.expovariate(lambda)`: corresponding to an exponential distribution
+        - `random.gauss(mu, sigma)`: corresponding to a gaussian distribution
+        - There are similar functions for other distributions, such as Normal Distribution, Gamma Distribution, etc.
+    - Random Sequences
+        - `random.shuffle(x)`:  shuffle the sequence **in place**
+        - `random.choice(seq)`: randomly pick up an item from a List/sequence
+        - `random.sample(population, k)`: Returns a random sample from a sequence of length k.
 - [ ] Day 005
 - [ ] Day 006
 - [ ] Day 007
