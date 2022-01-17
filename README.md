@@ -6,7 +6,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 001 - Print, Variables, Input
 - [x] Day 002 - Data Types, Numbers, Operations, Type Conversion, f-Strings
 - [x] Day 003 - Conditional Statementsm Logical Operators, Code Blocks and Scope
-- [ ] Day 004 - Randomisation and Lists
+- [x] Day 004 - Randomisation and Lists
     - Good Video: [Random vs. Pseudorandom Number Generators. Created by Brit Cruise.](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators)
     - Good Tool: [Ask Python](https://www.askpython.com/)
     - Need `import random`
@@ -28,8 +28,9 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - `random.shuffle(x)`:  shuffle the sequence **in place**
         - `random.choice(seq)`: randomly pick up an item from a List/sequence
         - `random.sample(population, k)`: Returns a random sample from a sequence of length k.
-- [ ] Day 005
-- [ ] Day 006
+- [x] Day 005 - For Loops, Range and Code Blocks
+    - [Have I Been Pwned?](https://haveibeenpwned.com/)
+- [ ] Day 006 - Functions, Code Blocks and While Loops
 - [ ] Day 007
 - [ ] Day 008
 - [ ] Day 009
