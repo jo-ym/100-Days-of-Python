@@ -30,8 +30,10 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - `random.sample(population, k)`: Returns a random sample from a sequence of length k.
 - [x] Day 005 - For Loops, Range and Code Blocks
     - [Have I Been Pwned?](https://haveibeenpwned.com/)
-- [ ] Day 006 - Functions, Code Blocks and While Loops
-- [ ] Day 007
+- [x] Day 006 - Functions, Code Blocks and While Loops
+    - Good Web for Learning in Game: [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
+    - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [ ] Day 007 - Hangman Project
 - [ ] Day 008
 - [ ] Day 009
 - [ ] Day 010
