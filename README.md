@@ -34,12 +34,12 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - Good Web for Learning in Game: [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
     - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] Day 007 - Hangman Project
-- [ ] Day 008 - Functions with Inputs
+- [x] Day 008 - Functions with Inputs
     - `math.ceil(x)` vs. `math.floor(x)`
         - the smallest integer greater than or equal to x vs. the largest integer not greater than x
         - returns float
-- [ ] Day 009 - Dictionaries & Nesting
-- [ ] Day 010
+- [x] Day 009 - Dictionaries & Nesting
+- [ ] Day 010 - Functions with Outputs
 - [ ] Day 011
 - [ ] Day 012
 - [ ] Day 013
