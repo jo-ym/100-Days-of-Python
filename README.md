@@ -39,7 +39,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - the smallest integer greater than or equal to x vs. the largest integer not greater than x
         - returns float
 - [x] Day 009 - Dictionaries & Nesting
-- [ ] Day 010 - Functions with Outputs
+- [x] Day 010 - Functions with Outputs
 - [ ] Day 011
 - [ ] Day 012
 - [ ] Day 013
