@@ -35,7 +35,10 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [x] Day 007 - Hangman Project
 - [ ] Day 008 - Functions with Inputs
-- [ ] Day 009
+    - `math.ceil(x)` vs. `math.floor(x)`
+        - the smallest integer greater than or equal to x vs. the largest integer not greater than x
+        - returns float
+- [ ] Day 009 - Dictionaries & Nesting
 - [ ] Day 010
 - [ ] Day 011
 - [ ] Day 012
