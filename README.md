@@ -46,9 +46,10 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 013 - Debugging
     - [Visualized Debugging Tool](https://pythontutor.com/visualize.html#mode=edit)
 - [x] Day 014 - Higher or Lower Project
+
 ## Intermediate
-- [ ] Day 015
-- [ ] Day 016
+- [x] Day 015 - Coffee Machine Project
+- [ ] Day 016 - Object Oriented Programming
 - [ ] Day 017
 - [ ] Day 018
 - [ ] Day 019
