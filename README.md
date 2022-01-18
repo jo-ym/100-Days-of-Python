@@ -40,8 +40,8 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - returns float
 - [x] Day 009 - Dictionaries & Nesting
 - [x] Day 010 - Functions with Outputs
-- [ ] Day 011
-- [ ] Day 012
+- [x] Day 011 - Blackjack Capston Project
+- [ ] Day 012 - Namespaces - Local vs. Global Scope
 - [ ] Day 013
 - [ ] Day 014
 ## Intermediate
