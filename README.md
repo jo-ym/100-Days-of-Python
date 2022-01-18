@@ -41,8 +41,9 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 009 - Dictionaries & Nesting
 - [x] Day 010 - Functions with Outputs
 - [x] Day 011 - Blackjack Capston Project
-- [ ] Day 012 - Namespaces - Local vs. Global Scope
-- [ ] Day 013
+- [x] Day 012 - Namespaces - Local vs. Global Scope
+    - There is no block scope for `if`, `for`,etc in Python.
+- [ ] Day 013 - Debugging
 - [ ] Day 014
 ## Intermediate
 - [ ] Day 015
