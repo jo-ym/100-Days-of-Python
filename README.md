@@ -49,8 +49,11 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 
 ## Intermediate
 - [x] Day 015 - Coffee Machine Project
-- [ ] Day 016 - Object Oriented Programming
-- [ ] Day 017
+- [x] Day 016 - Object Oriented Programming
+    - [Pokemon Database](https://pokemondb.net/pokedex/game/x-y)
+    - [Python Package Index, PyPi](https://pypi.org/)
+    - [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
+- [ ] Day 017 - Quiz Project
 - [ ] Day 018
 - [ ] Day 019
 - [ ] Day 020
