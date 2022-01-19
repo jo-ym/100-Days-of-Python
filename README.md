@@ -53,8 +53,9 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - [Pokemon Database](https://pokemondb.net/pokedex/game/x-y)
     - [Python Package Index, PyPi](https://pypi.org/)
     - [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
-- [ ] Day 017 - Quiz Project
-- [ ] Day 018
+- [x] Day 017 - Quiz Project
+    - [Open Trivia Database](https://opentdb.com/)
+- [ ] Day 018 - Turtle & the Graphical User Interface
 - [ ] Day 019
 - [ ] Day 020
 - [ ] Day 021
