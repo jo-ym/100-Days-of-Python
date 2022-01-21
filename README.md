@@ -55,8 +55,11 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
 - [x] Day 017 - Quiz Project
     - [Open Trivia Database](https://opentdb.com/)
-- [ ] Day 018 - Turtle & the Graphical User Interface
-- [ ] Day 019
+- [x] Day 018 - Turtle & the Graphical User Interface
+    - [Turtle](https://docs.python.org/3/library/turtle.html)
+    - [Turtle Colors](https://cs111.wellesley.edu/labs/lab01/colors)
+    - [Trinket Colors](https://trinket.io/docs/colors)
+- [ ] Day 019 - More Turtle Graphics, Event Listeners, State and Multiple Instances
 - [ ] Day 020
 - [ ] Day 021
 - [ ] Day 022
