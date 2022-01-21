@@ -59,7 +59,10 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - [Turtle](https://docs.python.org/3/library/turtle.html)
     - [Turtle Colors](https://cs111.wellesley.edu/labs/lab01/colors)
     - [Trinket Colors](https://trinket.io/docs/colors)
-- [ ] Day 019 - More Turtle Graphics, Event Listeners, State and Multiple Instances
+- [x] Day 019 - More Turtle Graphics, Event Listeners, State and Multiple Instances
+    - Turtle Coordinate System
+        - E = 0, N = 90, W=180, S = 270
+        - All turtle positions are measured from their center.
 - [ ] Day 020
 - [ ] Day 021
 - [ ] Day 022
