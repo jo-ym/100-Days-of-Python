@@ -66,7 +66,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 020 - Snake Game Part 1_Animation & Coordinates
 - [x] Day 021 - Snake Game Part 2_Inheritance & List Slicing
 - [x] Day 022 - Pong Game
-- [ ] Day 023
+- [x] Day 023 - The Turtle Crossing Capston Project
 - [ ] Day 024
 - [ ] Day 025
 - [ ] Day 026
