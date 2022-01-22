@@ -65,9 +65,11 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - All turtle positions are measured from their center.
 - [x] Day 020 - Snake Game Part 1_Animation & Coordinates
 - [x] Day 021 - Snake Game Part 2_Inheritance & List Slicing
+    - `super(ClassName, self).__int__()`
 - [x] Day 022 - Pong Game
 - [x] Day 023 - The Turtle Crossing Capston Project
-- [ ] Day 024
+- [x] Day 024 - Files, Directories, Paths
+    - The root is simply `./`, when writing python code you don't need to specify "C:" ( Windows ) or "Macintosh HD" ( Mac )
 - [ ] Day 025
 - [ ] Day 026
 - [ ] Day 027
