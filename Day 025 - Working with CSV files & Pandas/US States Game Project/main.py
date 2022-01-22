@@ -1,5 +1,5 @@
 import turtle
-import pandas
+import pandas as pd
 
 
 if __name__ == '__main__':
@@ -9,7 +9,7 @@ if __name__ == '__main__':
     screen.addshape(image)
     turtle.shape(image)
 
-    data = pandas.read_csv("50_states.csv")
+    data = pd.read_csv("50_states.csv")
     all_states = data.state.to_list()
     guessed_states = []
 
@@ -21,7 +21,7 @@ if __name__ == '__main__':
             for state in all_states:
                 if state not in guessed_states:
                     missing_states.append(state)
-            new_data = pandas.DataFrame(missing_states)
+            new_data = pd.DataFrame(missing_states)
             new_data.to_csv("states_to_learn.csv")
             break
         if answer_state in all_states:
