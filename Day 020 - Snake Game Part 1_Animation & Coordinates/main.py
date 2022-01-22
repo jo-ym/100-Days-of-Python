@@ -11,7 +11,6 @@ if __name__ == '__main__':
     screen.tracer(0)
 
     snake = Snake()
-    food = Food()
 
     screen.listen()
     screen.onkey(snake.up, "Up")

@@ -64,7 +64,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
         - E = 0, N = 90, W=180, S = 270
         - All turtle positions are measured from their center.
 - [x] Day 020 - Snake Game Part 1_Animation & Coordinates
-- [ ] Day 021
+- [ ] Day 021 - Snake Game Part 2_Inheritance & List Slicing
 - [ ] Day 022
 - [ ] Day 023
 - [ ] Day 024
