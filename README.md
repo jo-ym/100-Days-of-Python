@@ -70,7 +70,8 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 023 - The Turtle Crossing Capston Project
 - [x] Day 024 - Files, Directories, Paths
     - The root is simply `./`, when writing python code you don't need to specify "C:" ( Windows ) or "Macintosh HD" ( Mac )
-- [ ] Day 025
+- [x] Day 025 - Working with CSV files & Pandas
+    - [2018 Central Park Squirrel Census - Squirrel Data](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 - [ ] Day 026
 - [ ] Day 027
 - [ ] Day 028
