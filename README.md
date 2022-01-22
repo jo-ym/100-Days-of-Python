@@ -63,7 +63,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - Turtle Coordinate System
         - E = 0, N = 90, W=180, S = 270
         - All turtle positions are measured from their center.
-- [ ] Day 020
+- [ ] Day 020 - Snake Game Part 1_Animation & Coordinates
 - [ ] Day 021
 - [ ] Day 022
 - [ ] Day 023
