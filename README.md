@@ -75,7 +75,7 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
 - [x] Day 026 - List Comprehension and the NATO Alphabet
     - `str.strip()`
     - Loop through a DataFrame
-- [ ] Day 027 - Tkinter, args, kwargs and GUI Program
+- [x] Day 027 - Tkinter, args, kwargs and GUI Program
 - [ ] Day 028
 - [ ] Day 029
 - [ ] Day 030
