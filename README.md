@@ -76,7 +76,11 @@ Record my notes and projects about Udemy Class "100 Days of Code: The Complete P
     - `str.strip()`
     - Loop through a DataFrame
 - [x] Day 027 - Tkinter, args, kwargs and GUI Program
-- [ ] Day 028
+- [x] Day 028 - Tkinter, Dynamic Typing and Pomodoro GUI Application
+    - Color Reference: [Color Hunt](https://colorhunt.co/)
+    - [Python is strongly, dynamically typed.](https://stackoverflow.com/questions/11328920/is-python-strongly-typed)
+        - **Strong** typing means that the type of a value doesn't change in unexpected ways. A string containing only digits doesn't magically become a number, as may happen in Perl. Every change of type requires an explicit conversion.
+        - **Dynamic** typing means that runtime objects (values) have a type, as opposed to static typing where variables have a type.
 - [ ] Day 029
 - [ ] Day 030
 - [ ] Day 031
